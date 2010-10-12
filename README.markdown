@@ -1,2 +1,2 @@
-A template for an integrated SBT + IntelliJ IDEA Scala development setup.
+A template for an integrated SBT + IntelliJ IDEA Scala development setup.  
 See [this post](http://www.decodified.com/scala/2010/10/12/an-integrated-sbt-%2B-idea-scala-dev-setup.html) for an in-depth guide.

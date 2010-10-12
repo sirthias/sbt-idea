@@ -1,0 +1,7 @@
+.idea/workspace.xml
+project/boot/
+target/
+test-output/
+*/target/
+*/lib_managed/
+*/src_managed/

@@ -10,8 +10,8 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
-    <output url="file://$MODULE_DIR$/target/scala_2.8.0/classes" />
-    <output-test url="file://$MODULE_DIR$/target/scala_2.8.0/test-classes" />
+    <output url="file://$MODULE_DIR$/target/scala_2.8.0/classes:$MODULE_DIR$/target/scala_2.8.0/resources" />
+    <output-test url="file://$MODULE_DIR$/target/scala_2.8.0/test-classes:$MODULE_DIR$/target/scala_2.8.0/test-resources" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
